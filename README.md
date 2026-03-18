@@ -2,6 +2,11 @@
 
 Exemplos práticos para aprender LangChain e LangGraph com OpenAI, usando `uv`.
 
+## Referência
+
+Os exercícios deste repositório foram desenvolvidos com base na playlist:
+[LangChain + LangGraph (YouTube)](https://www.youtube.com/playlist?list=PLbIBj8vQhvm09IqqLYIwLF5dGrcbJzFZc)
+
 ## Requisitos
 
 - Python 3.14+
